@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 node_modules/
 .DS_Store
+=======
+node_modules/
+.DS_Store
+>>>>>>> d8eff9252ffae1134b3041d7cfa36e4bdc1a7e09
 READMEsample.md
